@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> 
-    <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
