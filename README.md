@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://stackoverflow.com/users/rares vasiu](https://stackoverflow.com/users/14438070/rares-vasiu)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rares vasiu" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rares_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rares_v" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rares_8stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rares_8stack" height="30" width="40" /></a>
 </p>
