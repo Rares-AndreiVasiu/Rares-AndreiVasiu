@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rares-andreivasiu&label=Profile%20views&color=0e75b6&style=flat" alt="rares-andreivasiu" /> </p>
 
-- 🌱 I’m currently learning **C++, C, Python, Java, C#, Verilog**
+- 🌱 I’m currently learning **Verilog, Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
