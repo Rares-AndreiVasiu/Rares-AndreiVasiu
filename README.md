@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/rares_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rares_v" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rares_8stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rares_8stack" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/RaresVasiuClio4" target="blank">img align="center" src="https://brandfetch.com/tryhackme.com view=library&library=default&collection=logos&asset=idSCH2mpBj&utm_source=https%253A%252F%252Fbrandfetch.com%252Ftryhackme.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="RaresVasiuClio4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
