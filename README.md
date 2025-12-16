@@ -10,9 +10,23 @@ I am a software developer with experience in C, C++, Python, and practical use o
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c,cpp,py" alt="C, C++, Python" />
+</p>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,postman" alt="Docker, Postman" />
+---
+
+## 🛠️ DevOps and CI/CD
+<p align="left">
+<!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+</p>
+
+---
+
+## 🛠️ Relational Databases
+
+<p align="left">
+<!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
 </p>
 
 ---
