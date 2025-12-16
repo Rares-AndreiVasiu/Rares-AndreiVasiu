@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm VASIU Rareș-Andrei 👋
 
 ## About Me
 I am a software developer with experience in C, C++, Python, and practical use of Docker and Postman. I enjoy building efficient and reliable systems and learning new technologies.
