@@ -5,13 +5,16 @@
 
 - 🌱 I’m currently learning **Verilog, Python**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/rares_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rares_v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rares_8stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rares_8stack" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/RaresVasiuClio4" target="blank"><img align="center" 
-  src="https://brandfetch.com/tryhackme.comview=library&library=default&collection=logos&asset=idSCH2mpBj&utm_source=https%253A%252F%252Fbrandfetch.com%252Ftryhackme.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="RaresVasiuClio4" height="30" width="40" /></a>
-</p>
+# Connect with me
+
+Feel free to reach out and connect with me on various platforms:
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rares-andrei-vasiu/)
+- **GitHub**: [GitHub Profile](https://github.com/Rares-AndreiVasiu)
+- **TryHackMe**: [TryHackMe Account](https://tryhackme.com/p/RaresVasiu)
+
+I'm always interested in discussing cybersecurity, networking, and technology projects!
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
