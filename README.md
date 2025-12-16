@@ -53,13 +53,6 @@ I am a software developer with experience in C, C++, Python, and practical use o
   </a>
 
 </p>
-
-
-## 📌 More About Me
-- I enjoy solving problems and exploring systems design.
-- I regularly practice coding challenges and learn cybersecurity techniques.
-- I contribute to open-source projects and enjoy collaborating with the community.
-
 ---
 
 > _Thanks for stopping by!_
