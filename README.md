@@ -1,8 +1,7 @@
 # Hi there, I'm VASIU Rareș-Andrei 👋
 
 ## About Me
-I am a software developer with experience in C, C++, Python, and practical use of Docker and Postman. I enjoy building efficient and reliable systems and learning new technologies.
-
+I am a Computer Science student at  Polytechnic University of Timișoara. I always relish a challenge and derive profound satisfaction from pursuing research in the realms of embedded systems and low-level programming.  Moreover, I am keen on contributing to a team. I consider we should nurture our curiosity and keep it alive throughout our lives.
 ---
 
 ## 🛠️ Programming Languages
