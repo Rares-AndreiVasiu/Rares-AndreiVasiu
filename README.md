@@ -34,12 +34,12 @@ I am a Computer Science student at  Polytechnic University of Timișoara. I alwa
 <p align="left">
 
   <!-- LinkedIn (Skill Icons) -->
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://linkedin.com/in/rareș-vasiu-72b630312">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" />
   </a>
 
   <!-- LeetCode (free SVG from SimpleIcons or IconDuck) -->
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/u/Rares_8stack/">
     <!-- Option A: Hosted SVG (you can replace with your own hosted URL) -->
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode.svg" alt="LeetCode" width="32" />
     <!-- Option B: Local SVG in your repo: ./assets/leetcode.svg -->
@@ -47,7 +47,7 @@ I am a Computer Science student at  Polytechnic University of Timișoara. I alwa
   </a>
 
   <!-- TryHackMe (free SVG from SimpleIcons / CDN) -->
-  <a href="https://tryhackme.com/p/your-tryhackme-username/">
+  <a href="https://tryhackme.com/p/RaresVasiuClio4">
     <img src="https://logo.svgcdn.com/simple-icons/tryhackme-dark.svg" alt="TryHackMe" width="32" />
   </a>
 
